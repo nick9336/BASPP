@@ -55,28 +55,28 @@ if(!isset($user_id)){
 
 </section>
 
-<section class="reviews">
+<section class="authors">
 
    <h1 class="title">Our Team</h1>
 
    <div class="box-container">
 
       <div class="box">
-         <img src="images/pic-1.png" alt="">
-         <p>CEO & Founder</p>
-         <h3>John Deo</h3>
+         <img src="images/pic-1.jpg" alt="">
+         <h3>CEO & Founder</h3>
+         <p>John Deo</p>
       </div>
 
       <div class="box">
          <img src="images/pic-2.png" alt="">
-         <p>Designer</p>
-         <h3>Adam Mal</h3>
+         <h3>Designer</h3>
+         <p>Adam Mal</p>
       </div>
 
       <div class="box">
          <img src="images/pic-3.png" alt="">
-         <p>Developer</p>
-         <h3>Mickey</h3>
+         <h3>Developer</h3>
+         <p>Mickey</p>
       </div>
 
    </div>
